@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Karti._
-- 👀 I’m interested in coding
-- 🌱 currently in first year
+- 👀 I’m interested in ai/ml
 
 - 📫 How to reach me-linkdin=Karti Sharma
 - 😄 Pronouns:Her/She
